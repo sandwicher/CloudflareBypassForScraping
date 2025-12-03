@@ -8,21 +8,44 @@ Bypass Cloudflare protection with ease. Supports cookie generation and request m
 
 ### Scrapeless
 
-[![](https://github.com/user-attachments/assets/783ce396-fa8c-4e10-846e-86d0ba0d0144)](https://www.scrapeless.com/en/product/scraping-browser?utm_source=github&utm_campaign=sarperavci)
+<a href="https://app.scrapeless.com/passport/login?utm_medium=github&utm_campaign=sarperavci"><img src="https://github.com/user-attachments/assets/5dd0b2a6-7eba-49b9-af2b-b28d9fc3a78d" /></a>
 
-[**Scrapeless Browser**](https://www.scrapeless.com/en/product/scraping-browser?utm_source=github&utm_campaign=sarperavci) is a cloud-based, Chromium-powered headless browser cluster. It allows developers to run large-scale, low-cost concurrent browser instances and reliably handle complex interactions on protected pages. Ideal for AI infrastructure, web automation, data scraping, page rendering, automated testing, and other tasks that require a real browser environment.  
-**Key Advantages of Scrapeless Browser:**
+If you are looking for a solution focused on **browser automation** and anti-detection mechanisms, I recommend [Scrapeless Browser.](https://www.scrapeless.com/en/product/scraping-browser?utm_medium=github&utm_campaign=cloudscraper)  
+**It** is a cloud-based, Chromium-powered headless browser cluster that enables developers to run **large-scale concurrent browser instances** and handle complex interactions on protected pages. Perfect for **AI infrastructure, web automation, data scraping, page rendering, and automated testing**.
 
-* **Built-in CAPTCHA solving:** Automatically bypasses Cloudflare Turnstile, reCAPTCHA, AWS WAF, DataDome, and other challenge systems.  
-* **Undetectable browser environment:** Not based on the traditional WebDriver — avoids automation detection.  
-* **Massive concurrency support:** Run 50–10,000+ browser instances simultaneously with no server constraints.  
-* **Real-time debugging:** Live View and session recording for efficient troubleshooting.  
-* **Native integration:** Compatible with Puppeteer, Playwright, Python, and Node.js — easy to integrate into your current workflows.  
-* **70M+ residential IPs:** Global proxy network with automatic rotation and smart geolocation routing.
+The [**Scrapeless Browser**](https://www.scrapeless.com/en/product/scraping-browser?utm_medium=github&utm_campaign=cloudscraper) provides a secure, isolated browser environment that allows you to interact with web applications while minimizing potential risks to your system. 
 
-In terms of cost, Scrapeless browser usage is only 1/8 of Browserbase, significantly cutting overall expenses.  
-It also offers a [**Scraping API**](https://www.scrapeless.com/en/product/scraping-api?utm_source=github&utm_campaign=sarperavci)**、[Deep SerpApi](https://www.scrapeless.com/en/product/deep-serp-api?utm_source=github&utm_campaign=sarperavci) and [Proxies](https://www.scrapeless.com/en/product/proxies?utm_source=github&utm_campaign=sarperavci) services**.  
-👉 Learn more: [Scrapeless Browser](https://www.scrapeless.com/en/product/scraping-browser?utm_source=github&utm_campaign=sarperavci) | [Documentation](https://docs.scrapeless.com/en/scraping-browser/quickstart/introduction/?utm_source=github&utm_campaign=sarperavci)
+If you're looking for powerful and scalable browser automation and real-time data acquisition capabilities, Scrapeless offers **a high-performance, scalable, and cost-efficient cloud browser infrastructure** as well as **a global enterprise-grade proxy network**, addressing the core needs of automated execution and stable IP access.
+
+#### [**Scrapeless Browser**](https://docs.scrapeless.com/en/scraping-browser/quickstart/introduction/?utm_medium=github&utm_campaign=sarperavci) **– Enterprise Cloud Browser Infrastructure**
+
+* **Out-of-the-Box Ready**: Natively compatible with [Puppeteer](https://docs.scrapeless.com/en/scraping-browser/libraries/puppeteer/?utm_medium=github&utm_campaign=sarperavci) and [Playwright](https://docs.scrapeless.com/en/scraping-browser/libraries/playwright/?utm_medium=github&utm_campaign=sarperavci), supporting CDP connections. Migrate your projects with just one line of code.  
+* **Bulk Isolated Environment Creation**: Each profile corresponds to an exclusive browser environment, enabling persistent login and identity isolation.  
+* **Unlimited Concurrent Scaling**: A single task supports second-level launch of 50 to 1000+ browser instances. Auto-scaling is available with no server resource limits.  
+* [**Real-time Signaling (MFA)：**](https://docs.scrapeless.com/en/scraping-browser/features/real-time-signaling/?utm_medium=github&utm_campaign=sarperavci)Supports event-driven handling of asynchronous workflows, including SMS/Email/TOTP verification, ensuring stable sessions, and uninterrupted automation.  
+* **Edge Node Service (ENS)** – Multiple nodes worldwide, offering 2–3× faster launch speed and higher stability than other cloud browsers.  
+* [**Flexible Fingerprint Customization**:](https://docs.scrapeless.com/en/scraping-browser/features/advanced-privacy-anti-detection/custom-fingerprint/?utm_medium=github&utm_campaign=sarperavci) Generate random fingerprints or customize fingerprint parameters as needed.  
+* **Visual Debugging:** Perform interactive debugging and real-time monitoring of proxy traffic through [**Live View**](https://docs.scrapeless.com/en/scraping-browser/features/live-session/?utm_medium=github&utm_campaign=sarperavci), and quickly pinpoint issues and optimize actions by replaying sessions page by page with [**Session Recordings**](https://docs.scrapeless.com/en/scraping-browser/features/session-replay/?utm_medium=github&utm_campaign=sarperavci).  
+* **Enterprise Customization**: Undertake customization of enterprise-level automation projects and AI Agent customization.
+
+**👉 Learn more: [Scrapeless Scraping Browser Playground](https://app.scrapeless.com/passport/login?utm_medium=github&utm_campaign=sarperavci)  [Scrapeless Browser| Documentation](https://docs.scrapeless.com/en/scraping-browser/quickstart/introduction/?utm_medium=github&utm_campaign=sarperavci)**
+
+#### [**Scrapeless Proxy Network**](https://www.scrapeless.com/en/product/proxy-solutions?utm_medium=github&utm_campaign=sarperavci) **– Unblockable, Large-Scale Data Extraction**
+
+* **90+ million residential IPs worldwide**, covering **195+ countries**, starting at **$1.80/GB**, pay-per-GB with no traffic expiration.
+
+* **Flexible Proxy Types**: Choose residential, IPv6, static ISP, or datacenter proxies based on workload requirements.
+
+* **Enterprise-Grade Reliability**: 99.9% uptime with ultra-low latency (<0.5s).
+
+* [**Advanced targeting:**](https://docs.scrapeless.com/en/proxies/features/proxy/?utm_medium=github&utm_campaign=sarperavci) City-level geolocation targeting with automatic IP rotation 
+
+* **High-Performance Scraping**: Ideal for AI training data collection, web automation, and large-scale real-time extraction tasks.
+
+* **👉 Learn more: [Scrapeless Proxies| Documentation](https://docs.scrapeless.com/en/proxies/quickstart/introduction/?utm_medium=github&utm_campaign=sarperavci)**    
+  **👉** [Get it Now!](https://app.scrapeless.com/passport/login?utm_medium=github&utm_campaign=sarperavci)
+
+---
 
 ### ThorData
 
@@ -117,6 +140,20 @@ $ curl "http://localhost:8000/cookies?url=https://nopecha.com/demo/cloudflare"
   "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0"
 }
 ```
+
+### HTML Content Extraction
+
+The `/html` endpoint returns the full HTML content of a page after bypassing Cloudflare protection. The HTML is returned directly (not as JSON).
+
+```bash
+$ curl "http://localhost:8000/html?url=https://nopecha.com/demo/cloudflare"
+```
+
+This returns the raw HTML content with additional headers containing bypass information:
+- `x-cf-bypasser-cookies`: Number of cookies generated
+- `x-cf-bypasser-user-agent`: User agent used for bypass
+- `x-cf-bypasser-final-url`: Final URL after redirects
+- `x-processing-time-ms`: Time taken to process the request
 
 
 ## Build from Source  
