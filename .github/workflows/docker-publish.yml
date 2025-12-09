@@ -2,7 +2,12 @@ name: Docker Build and Publish
 
 on:
   push:
-    branches: [ "main" ]
+    branches:
+      - main
+    paths-ignore:
+      - 'README.md'
+      - '*.md'
+      - 'LICENSE'
   workflow_dispatch:
 
 env:
