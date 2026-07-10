@@ -6,6 +6,23 @@ Bypass Cloudflare protection with ease. Supports cookie generation and request m
 
 ## Sponsors
 
+### IPcook
+
+<a href="https://www.ipcook.com/?ref=00JF84&utm_source=github&utm_medium=referral&utm_campaign=sarperavci"><img src="https://github.com/user-attachments/assets/ea0a4dd8-f26a-4598-8307-868e190150a9" /></a>
+
+**Need Reliable Proxies? [IPcook](https://www.ipcook.com/?ref=00JF84&utm_source=github&utm_medium=referral&utm_campaign=sarperavci) Has Got You Covered**
+
+- 🚀 99.99% Uptime
+- ⚡ Avg. Response Time < 0.5s
+- 🔒 Up to 10 Sub-accounts
+- 🌍 24/7 Premium Support
+- ⏰ Sticky Sessions up to 24h
+- 📍 Free Geo-Targeting
+- ♾️ Unlimited Bandwidth
+
+🎁 [Start with a FREE 100MB Trial](https://www.ipcook.com/?ref=00JF84&utm_source=github&utm_medium=referral&utm_campaign=sarperavci)
+💸 Use code `WELCOME20` for 20% OFF
+
 ### Scrape.do
 
 <a href="https://scrape.do/?utm_source=github&utm_medium=cfbypass"><img src="https://github.com/user-attachments/assets/04c49095-715b-4751-adf4-ae38fbe16e77" /></a>
