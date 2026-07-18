@@ -8,7 +8,7 @@ Bypass Cloudflare protection with ease. Supports cookie generation and request m
 
 ### IPcook
 
-<a href="https://www.ipcook.com/?ref=00JF84&utm_source=github&utm_medium=referral&utm_campaign=sarperavci"><img src="https://github.com/user-attachments/assets/62933c40-8958-48b0-bbe1-88145f5eb87a" /></a>
+<a href="https://www.ipcook.com/?ref=00JF84&utm_source=github&utm_medium=referral&utm_campaign=sarperavci"><img src="https://github.com/user-attachments/assets/4b57769a-fc2c-4219-91f3-d861625fcb16" /></a>
 
 **Need Reliable Proxies? [IPcook](https://www.ipcook.com/?ref=00JF84&utm_source=github&utm_medium=referral&utm_campaign=sarperavci) Has Got You Covered**
 
