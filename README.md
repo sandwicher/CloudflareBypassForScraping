@@ -8,17 +8,18 @@ Bypass Cloudflare protection with ease. Supports cookie generation and request m
 
 ### IPcook
 
-<a href="https://www.ipcook.com/?ref=00JF84&utm_source=github&utm_medium=referral&utm_campaign=sarperavci"><img src="https://github.com/user-attachments/assets/4b57769a-fc2c-4219-91f3-d861625fcb16" /></a>
+<a href="https://www.ipcook.com/?ref=00JF84&utm_source=github&utm_medium=referral&utm_campaign=sarperavci"><img src="https://github.com/user-attachments/assets/859ab3de-fc53-491f-948e-e2d3f5066a18" /></a>
 
 **Need Reliable Proxies? [IPcook](https://www.ipcook.com/?ref=00JF84&utm_source=github&utm_medium=referral&utm_campaign=sarperavci) Has Got You Covered**
 
+- 🔄 Monthly Plans with Auto-Renewal
 - 🚀 99.99% Uptime
 - ⚡ Avg. Response Time < 0.5s
+- 📶 Up to 100K Concurrent Connections
+- 🌍 55M+ IPs Across 185+ Locations
+- ♻️ IP Rotation Per Request
 - 🔒 Up to 10 Sub-accounts
-- 🌍 24/7 Premium Support
-- ⏰ Sticky Sessions up to 24h
-- 📍 Free Geo-Targeting
-- ♾️ Unlimited Bandwidth
+- 🛟 24/7 Premium Support
 
 🎁 [Start with a FREE 100MB Trial](https://www.ipcook.com/?ref=00JF84&utm_source=github&utm_medium=referral&utm_campaign=sarperavci)
 💸 Use code `WELCOME20` for 20% OFF
