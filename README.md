@@ -6,24 +6,6 @@ Bypass Cloudflare protection with ease. Supports cookie generation and request m
 
 ## Sponsors
 
-### IPcook
-
-<a href="https://www.ipcook.com/?ref=00JF84&utm_source=github&utm_medium=referral&utm_campaign=sarperavci"><img src="https://github.com/user-attachments/assets/859ab3de-fc53-491f-948e-e2d3f5066a18" /></a>
-
-**Need Reliable Proxies? [IPcook](https://www.ipcook.com/?ref=00JF84&utm_source=github&utm_medium=referral&utm_campaign=sarperavci) Has Got You Covered**
-
-- 🔄 Monthly Plans with Auto-Renewal
-- 🚀 99.99% Uptime
-- ⚡ Avg. Response Time < 0.5s
-- 📶 Up to 100K Concurrent Connections
-- 🌍 55M+ IPs Across 185+ Locations
-- ♻️ IP Rotation Per Request
-- 🔒 Up to 10 Sub-accounts
-- 🛟 24/7 Premium Support
-
-🎁 [Start with a FREE 100MB Trial](https://www.ipcook.com/?ref=00JF84&utm_source=github&utm_medium=referral&utm_campaign=sarperavci)
-💸 Use code `WELCOME20` for 20% OFF
-
 ### Scrape.do
 
 <a href="https://scrape.do/?utm_source=github&utm_medium=cfbypass"><img src="https://github.com/user-attachments/assets/04c49095-715b-4751-adf4-ae38fbe16e77" /></a>
@@ -38,13 +20,8 @@ One line of code. Instant data access
 
 [Claim your free trial](https://scrape.do/?utm_source=github&utm_medium=cfbypass)
 
-### BirdProxies
+---
 
-<a href="https://birdproxies.com/t/sarperavci"><img src="https://github.com/user-attachments/assets/cac81306-49ea-44ae-b2bc-c16622803a99" /></a>
-
-[BirdProxies](https://birdproxies.com/t/sarperavci) — Hey, we built BirdProxies because proxies shouldn't be complicated or overpriced. Fast residential and ISP proxies in 195+ locations, fair pricing, and real support. Try our FlappyBird game on the landing page for free data!
-
-- Discord: [https://discord.com/invite/birdproxies](https://discord.com/invite/birdproxies)
 
 # 🚀 Quick Start
 
